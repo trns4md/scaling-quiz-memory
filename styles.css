@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    background-color: purple;
+    color: yellowgreen;
+    font-family: comic 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:20px;
+    
+}
+#answer{
+    font-size: 30px;
+    color: yellow;
+}
+.jumbotron{
+    background-image: url("C:\Users\trns4md\Desktop\Code Career Academy\scaling-quiz-memory\images\riddler4.jpg");
+    background-size: 100%;
+}
+#container{
+    background-color: 
+}
+#one{
+    background-color: red;
+}
+#two{
+background-color:blue;
+}
+#three{
+background-color: orange;
+}
+#pagination{
+   margin: 2rem;
+}
+#answer{
+    margin: 2rem;
+}
